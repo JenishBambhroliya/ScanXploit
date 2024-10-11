@@ -1,0 +1,1581 @@
+1 - TCP Port Service Multiplexer (TCPMUX)
+
+2 - CompressNET Management Utility
+
+3 - CompressNET Compression Process
+
+4 - Unassigned
+
+5 - Remote Job Entry (RJE)
+
+6 - Unassigned
+
+7 - Echo Protocol
+
+8 - Unassigned
+
+9 - Discard Protocol
+
+10 - Unassigned
+
+11 - Active Users (systat)
+
+12 - Unassigned
+
+13 - Daytime Protocol
+
+14 - Unassigned
+
+15 - Unassigned
+
+16 - Unassigned
+
+17 - Quote of the Day (QOTD)
+
+18 - Message Send Protocol (MSP)
+
+19 - Character Generator (CHARGEN)
+
+20 - File Transfer Protocol (FTP) Data Transfer
+
+21 - File Transfer Protocol (FTP) Command Control
+
+22 - Secure Shell (SSH)
+
+23 - Telnet Protocol
+
+24 - Priv-Mail (any private mail system)
+
+25 - Simple Mail Transfer Protocol (SMTP)
+
+26 - Unassigned
+
+27 - NSW User System FE
+
+28 - Unassigned
+
+29 - MSG ICP
+
+30 - Unassigned
+
+31 - MSG Authentication
+
+32 - Unassigned
+
+33 - DSP (Display Support Protocol)
+
+34 - Unassigned
+
+35 - Any private printer server protocol
+
+36 - Unassigned
+
+37 - Time Protocol
+
+38 - Route Access Protocol (RAP)
+
+39 - Resource Location Protocol (RLP)
+
+40 - Unassigned
+
+41 - Graphics
+
+42 - Host Name Server (HNSP)
+
+43 - WHOIS Protocol
+
+44 - MPM FLAGS Protocol
+
+45 - Message Processing Module (MPM)
+
+46 - MPM / SNMP
+
+47 - NI FTP
+
+48 - Digital Audit Daemon
+
+49 - TACACS (Terminal Access Controller Access-Control System)
+
+50 - Remote Mail Checking Protocol
+
+51 - IMP Logical Address Maintenance
+
+52 - XNS (Xerox Network Services) Time Protocol
+
+53 - Domain Name System (DNS)
+
+54 - XNS (Xerox Network Services) Clearinghouse
+
+55 - ISI Graphics Language (ISI-GL)
+
+56 - XNS Authentication
+
+57 - Any private terminal access
+
+58 - XNS Mail
+
+59 - Any private file service
+
+60 - Unassigned
+
+61 - NI MAIL
+
+62 - ACA Services
+
+63 - Unassigned
+
+64 - Communications Integrator (CI)
+
+65 - TACACS-Database Service
+
+66 - Oracle SQL*NET
+
+67 - BOOTP/DHCP Server
+
+68 - BOOTP/DHCP Client
+
+69 - Trivial File Transfer Protocol (TFTP)
+
+70 - Gopher Protocol
+
+71 - NETRJS Protocol
+
+72 - NETRJS Protocol
+
+73 - NETRJS Protocol
+
+74 - NETRJS Protocol
+
+75 - Any private dial-out service
+
+76 - Distributed External Object Store (DEOS)
+
+77 - Any private RJE service
+
+78 - vettcp
+
+79 - Finger Protocol
+
+80 - Hypertext Transfer Protocol (HTTP)
+
+81 - HOSTS2 Name Server
+
+82 - XFER Utility
+
+83 - MIT ML Device
+
+84 - Common Trace Facility
+
+85 - MIT ML Device
+
+86 - Micro Focus Cobol Interface
+
+87 - Unassigned
+
+88 - Kerberos Authentication
+
+89 - SU/MIT Telnet Gateway
+
+90 - DNSIX Securit Attribute Token Map
+
+91 - MIT Dover Spooler
+
+92 - Network Printing Protocol (NPP)
+
+93 - Device Control Protocol
+
+94 - Tivoli Object Dispatcher
+
+95 - SUPDUP Protocol
+
+96 - DIXIE Protocol
+
+97 - Swift Remote Virtual File Protocol
+
+98 - TAC News
+
+99 - Metagram Relay
+
+100 - Unassigned
+
+101 - NIC Host Name Server
+
+102 - ISO Transport Service Access Point (TSAP) Class 0
+
+103 - Genesis Point-to-Point Trans Net
+
+104 - ACR-NEMA Digital Imaging and Communications
+
+105 - CCSO Nameserver (Qi/Ph)
+
+106 - 3COM-TSMUX
+
+107 - Remote Telnet Service
+
+108 - SNA Gateway Access Server
+
+109 - Post Office Protocol v2 (POP2)
+
+110 - Post Office Protocol v3 (POP3)
+
+111 - Remote Procedure Call (RPC)
+
+112 - McIDAS Data Transmission Protocol
+
+113 - Authentication Service (ident)
+
+114 - Audio News Multicast
+
+115 - Simple File Transfer Protocol (SFTP)
+
+116 - ANSA REX Notify
+
+117 - UUCP Path Service
+
+118 - SQL Services
+
+119 - Network News Transfer Protocol (NNTP)
+
+120 - CFDPTKT
+
+121 - Encore Expedited Remote Pro.Call
+
+122 - SMAKYNET
+
+123 - Network Time Protocol (NTP)
+
+124 - ANSA REX Trader
+
+125 - Locus PC-Interface Net Map Ser
+
+126 - Unisys Unitary Login
+
+127 - Locus PC-Interface Conn Server
+
+128 - GSS X License Verification
+
+129 - Password Generator Protocol
+
+130 - Cisco FNATIVE
+
+131 - Cisco TNATIVE
+
+132 - Cisco SYSMAINT
+
+133 - Statistics Service
+
+134 - INGRES-NET Service
+
+135 - Microsoft EPMAP (End Point Mapper) also known as DCE/RPC Locator service
+
+136 - PROFILE Naming System
+
+137 - NetBIOS Name Service
+
+138 - NetBIOS Datagram Service
+
+139 - NetBIOS Session Service
+
+140 - Unassigned
+
+141 - EMFIS Data Service
+
+142 - EMFIS Control Service
+
+143 - Internet Message Access Protocol (IMAP)
+
+144 - Universal Management Architecture
+
+145 - UAAC Protocol
+
+146 - ISO-IP0
+
+147 - ISO-IP
+
+148 - Jargon Service
+
+149 - AED 512 Emulation Service
+
+150 - SQL-NET
+
+151 - Heuristic Routing for XNS
+
+152 - Background File Transfer Program (BFTP)
+
+153 - SGMP
+
+154 - NETSC
+
+155 - NETSC
+
+156 - SQL Service
+
+157 - KNET/VM Command/Message Protocol
+
+158 - PCMail Server
+
+159 - NFILE
+
+160 - Unassigned
+
+161 - Simple Network Management Protocol (SNMP)
+
+162 - SNMP Trap
+
+163 - CMIP/TCP Manager
+
+164 - CMIP/TCP Agent
+
+165 - Xerox
+
+166 - Sirius Systems
+
+167 - NAMP
+
+168 - RSVD
+
+169 - SEND
+
+170 - Network PostScript
+
+171 - Multimedia Mail System
+
+172 - Network Paging Protocol
+
+173 - Multimedia Mail System177 - X Display Manager Control Protocol (XDMCP)
+
+178 - NextStep Window Server
+
+179 - Border Gateway Protocol (BGP)
+
+180 - Intergraph CAD/CAM Services
+
+181 - Unassigned
+
+182 - Unassigned
+
+183 - Unassigned
+
+184 - Unassigned
+
+185 - Unassigned
+
+186 - Unassigned
+
+187 - Unassigned
+
+188 - Unassigned
+
+189 - Unassigned
+
+190 - Gateway Access Control Protocol (GACP)
+
+191 - Unassigned
+
+192 - IBM Appletalk
+
+193 - Internet Relay Chat (IRC)
+
+194 - Unassigned
+
+195 - DNSIX Network Level Module Audit
+
+196 - DNSIX Session Mgt Module Audit Redir
+
+197 - Directory Location Service
+
+198 - Directory Location Service Monitor
+
+199 - Simple Network Management Protocol (SNMP) Unix Multiplexer
+
+200 - IBM DB2
+
+201 - AppleTalk Routing Maintenance
+
+202 - AppleTalk Name Binding
+
+203 - AppleTalk Echo
+
+204 - AppleTalk Zone Information
+
+205 - AppleTalk Router Discovery
+
+206 - AppleTalk Maintenance
+
+207 - Unassigned
+
+208 - Unassigned
+
+209 - Quick Mail Transfer Protocol (QMTP)
+
+210 - ANSI Z39.50
+
+211 - Texas Instruments 914C/G Terminal
+
+212 - ATEXSSTR
+
+213 - IPX
+
+214 - VM PWSCS
+
+215 - SoftPC
+
+216 - CAI License Manager
+
+217 - dBASE Unix
+
+218 - MPP
+
+219 - Unisys Clearpath Console Management
+
+220 - IMAP (Interactive Mail Access Protocol)
+
+221 - Berkeley rlogind with SPX
+
+222 - Berkeley rshd with SPX
+
+223 - Cipher Text PTC
+
+224 - Microsoft RDP
+
+225 - Unassigned
+
+226 - Reserved
+
+227 - Reserved
+
+228 - Reserved
+
+229 - Reserved
+
+230 - Reserved
+
+231 - Reserved
+
+232 - Reserved
+
+233 - Reserved
+
+234 - Reserved
+
+235 - Reserved
+
+236 - Reserved
+
+237 - Reserved
+
+238 - Reserved
+
+239 - Reserved
+
+240 - Reserved
+
+241 - Reserved
+
+242 - Reserved
+
+243 - Reserved
+
+244 - Reserved
+
+245 - Reserved
+
+246 - Reserved
+
+247 - Reserved
+
+248 - Reserved
+
+249 - Reserved
+
+250 - Reserved
+
+251 - Reserved
+
+252 - Reserved
+
+253 - Reserved
+
+254 - Reserved
+
+255 - Reserved
+
+256 - Reserved
+
+257 - Reserved
+
+258 - Reserved
+
+259 - Reserved
+
+260 - Reserved
+
+261 - Reserved
+
+262 - Reserved
+
+263 - Reserved
+
+264 - Reserved
+
+265 - Reserved
+
+266 - Reserved
+
+267 - Reserved
+
+268 - Reserved
+
+269 - Reserved
+
+270 - Reserved
+
+271 - Reserved
+
+272 - Reserved
+
+273 - Reserved
+
+274 - Reserved
+
+275 - Reserved
+
+276 - Reserved
+
+277 - Reserved
+
+278 - Reserved
+
+279 - Reserved
+
+280 - Reserved
+
+281 - Reserved
+
+282 - Reserved
+
+283 - Reserved
+
+284 - Reserved
+
+285 - Reserved
+
+286 - Reserved
+
+287 - Reserved
+
+288 - Reserved
+
+289 - Reserved
+
+290 - Reserved
+
+291 - Reserved
+
+292 - Reserved
+
+293 - Reserved
+
+294 - Reserved
+
+295 - Reserved
+
+296 - Reserved
+
+297 - Reserved
+
+298 - Reserved
+
+299 - Reserved
+
+300 - Unassigned
+
+301 - Reserved
+
+302 - Unassigned
+
+303 - Unassigned
+
+304 - Unassigned
+
+305 - Unassigned
+
+306 - Unassigned
+
+307 - Reserved
+
+308 - Reserved
+
+309 - Reserved
+
+310 - Reserved
+
+311 - Reserved
+
+312 - Reserved
+
+313 - Reserved
+
+314 - Reserved
+
+315 - Reserved
+
+316 - Reserved
+
+317 - Reserved
+
+318 - Reserved
+
+319 - Unassigned
+
+320 - Unassigned
+
+321 - Reserved
+
+322 - Reserved
+
+323 - Reserved
+
+324 - Reserved
+
+325 - Reserved
+
+326 - Reserved
+
+327 - Reserved
+
+328 - Reserved
+
+329 - Reserved
+
+330 - Reserved
+
+331 - Reserved
+
+332 - Reserved
+
+333 - Reserved
+
+334 - Reserved
+
+335 - Reserved
+
+336 - Reserved
+
+337 - Reserved
+
+338 - Reserved
+
+339 - Reserved
+
+340 - Reserved
+
+341 - Reserved
+
+342 - Reserved
+
+343 - Reserved
+
+344 - Reserved
+
+345 - Reserved
+
+346 - Reserved
+
+347 - Reserved
+
+348 - Reserved
+
+349 - Reserved
+
+350 - Unassigned
+
+351 - Unassigned
+
+352 - Reserved
+
+353 - Reserved
+
+354 - Reserved
+
+355 - Reserved
+
+356 - Reserved
+
+357 - Reserved
+
+358 - Reserved
+
+359 - Reserved
+
+360 - Reserved
+
+361 - Reserved
+
+362 - Reserved
+
+363 - Reserved
+
+364 - Reserved
+
+365 - Reserved
+
+366 - Reserved
+
+367 - Reserved
+
+368 - Reserved
+
+369 - Reserved
+
+370 - Reserved
+
+371 - Reserved
+
+372 - Reserved
+
+373 - Reserved
+
+374 - Reserved
+
+375 - Reserved
+
+376 - Reserved
+
+377 - Reserved
+
+378 - Reserved
+
+379 - Reserved
+
+380 - Reserved
+
+381 - Reserved
+
+382 - Reserved
+
+383 - Reserved
+
+384 - Reserved
+
+385 - Reserved
+
+386 - Unassigned
+
+387 - Reserved
+
+388 - Reserved
+
+389 - Lightweight Directory Access Protocol (LDAP)
+
+390 - Reserved
+
+391 - Reserved
+
+392 - Reserved
+
+393 - Reserved
+
+394 - Reserved
+
+395 - Reserved
+
+396 - Reserved
+
+397 - Reserved
+
+398 - Reserved
+
+399 - Reserved
+
+400 - Reserved
+
+401 - Unassigned
+
+402 - Unassigned
+
+403 - Reserved
+
+404 - Reserved
+
+405 - Reserved
+
+406 - Reserved
+
+407 - Reserved
+
+408 - Reserved
+
+409 - Reserved
+
+410 - Reserved
+
+411 - Reserved
+
+412 - Reserved
+
+413 - Reserved
+
+414 - Reserved
+
+415 - Reserved
+
+416 - Reserved
+
+417 - Reserved
+
+418 - Reserved
+
+419 - Reserved
+
+420 - Reserved
+
+421 - Reserved
+
+422 - Reserved
+
+423 - Reserved
+
+424 - Reserved
+
+425 - Reserved
+
+426 - Reserved
+
+427 - Reserved
+
+428 - Reserved
+
+429 - Reserved
+
+430 - Reserved
+
+431 - Reserved
+
+432 - Reserved
+
+433 - Reserved
+
+434 - Reserved
+
+435 - Reserved
+
+436 - Reserved
+
+437 - Reserved
+
+438 - Reserved
+
+439 - Reserved
+
+440 - Reserved
+
+441 - Reserved
+
+442 - Reserved
+
+443 - HTTPS (HTTP over SSL/TLS)
+
+444 - Simple Network Paging Protocol (SNPP)
+
+445 - Microsoft-DS (Active Directory, Windows shares)
+
+446 - Registered by RFC 1700 but not used
+
+447 - DDM-RDB (Da
+
+448 - DDM-RFM (Distributed File Management protocol)
+
+449 - AS Server Mapper (IBM DB2)
+
+450 - Computer Supported Telecom Applications (CSTA)
+
+451 - Cray Network Semaphore Server
+
+452 - Cray SFS
+
+453 - Creative Server
+
+454 - Content Server
+
+455 - Creative Part Server
+
+456 - macon-tcp (TeleFinder FTP Server admin service)
+
+457 - SCSI on ST (SCSI on Storage Transport Protocol)
+
+458 - Apple QuickTime TV/Video conference service
+
+459 - Apple QuickTime TV/Video conference service
+
+460 - Unassigned
+
+461 - DataRamp Multiplexor
+
+462 - Unassigned
+
+463 - Aurora (Connection management service)
+
+464 - Kerberos (Change password protocol)
+
+465 - SMTP over SSL (Simple Mail Transfer Protocol)
+
+466 - Digital VAX Mail (remote management)
+
+467 - MySQL Enterprise (multi-phase commit recovery)
+
+468 - Photuris (Security handshake protocol)
+
+469 - Unassigned
+
+470 - scx-proxy
+
+471 - Mondex
+
+472 - unassigned
+
+473 - Hybrid routing protocol
+
+474 - TCP/IP Compression Service (packet compression protocol)
+
+475 - firepower (IP multicast frame relay)
+
+476 - Unassigned
+
+477 - ss7ns (SIP Networked Services)
+
+478 - spsc
+
+479 - IAFserver
+
+480 - IAFdb
+
+481 - Ph Service
+
+482 - bgs-nsi (broadcast group server)
+
+483 - IBM Interconnect Bus (Access for large servers)
+
+484 - Unassigned
+
+485 - Unassigned
+
+486 - Unassigned
+
+487 - unassigned
+
+488 - gssweb
+
+489 - nest-protocol (Nest electronics service protocol)
+
+490 - micom-pfs (Packet factory service)
+
+491 - Go-login daemon
+
+492 - Transport Layer Security (TLS)
+
+493 - Transport Layer Security (TLS)
+
+494 - pim-rp (Protocol Independent Multicast rendezvous protocol)
+
+495 - Internet Security Association (certificate management)
+
+496 - devsrc (DevICe Source)
+
+497 - Retrospect backup service
+
+498 - Unassigned
+
+499 - Synoptics SNMP Control Network
+
+500 - Internet Security Association and Key Management Protocol (ISAKMP)
+
+501 - STMF
+
+502 - Modbus (Modbus TCP/IP protocol)
+
+503 - Intrinsa (security event logging)
+
+504 - citadel (Collaboration suite)
+
+505 - mailbox (mailbox service)
+
+506 - rwhois (Remote whois service)
+
+507 - crs (Group cryptographic services)
+
+508 - xlog (xlog logging service)
+
+509 - snare (log collection and forwarding)
+
+510 - fcp (First-class protocol service)
+
+511 - passgo (OpenVMS PASS package management)
+
+512 - rexec (Remote command execution protocol)
+
+513 - rlogin (Remote login protocol)
+
+514 - syslog (Remote system logging)
+
+515 - LPR/LPD (Line Printer Daemon protocol)
+
+516 - Unassigned
+
+517 - talk (Talk communication service)
+
+518 - ntalk (New talk communication service)
+
+519 - utime (Unix Time)
+
+520 - RIP (Routing Information Protocol)
+
+521 - RIPng (Routing Information Protocol for IPv6)
+
+522 - ULP (User Location Protocol)
+
+523 - IBM DB2
+
+524 - NetWare Core Protocol (NCP)
+
+525 - timed (Network Time Protocol)
+
+526 - tempo (Unofficial time service)
+
+527 - Strobe (Network scanning utility)
+
+528 - Unassigned
+
+529 - IRC-SERV (IRC Services)
+
+530 - courier (RPC Courier)
+
+531 - Conference call service
+
+532 - netnews (Read/Write News service)
+
+533 - Unassigned
+
+534 - mm-admin (Video distribution admin)
+
+535 - iiop (Internet Inter-ORB Protocol)
+
+536 - opalis-rdv (Remote Data Visualization)
+
+537 - nmsp (Network Message Security Protocol)
+
+538 - gdomap (GNUstep remote process service)
+
+539 - Apertus LDAP service
+
+540 - UUCP (Unix to Unix Copy Protocol)
+
+541 - Unassigned
+
+542 - commerce (E-commerce service)
+
+543 - klogin (Kerberos login protocol)
+
+544 - kshell (Kerberos remote command)
+
+545 - OMA Directory over HTTP
+
+546 - DHCPv6 client
+
+547 - DHCPv6 server
+
+548 - AFP (Apple Filing Protocol)
+
+549 - IDFP (Internetworking Protocol)
+
+550 - new-rwho (Remote who service)
+
+551 - Unassigned
+
+552 - Unassigned
+
+553 - PIRP (Personal Info Retrieval Protocol)
+
+554 - RTSP (Real Time Streaming Protocol)
+
+555 - DSF
+
+556 - Remotefs (Remote File Sharing Protocol)
+
+557 - OpenVMS RSA_COM (Remote Security Access)
+
+558 - sdnskmp (Security Association Key Management Protocol)
+
+559 - teedtap (RPC encryption key generation)
+
+560 - rmonitor (Remote monitor protocol)
+
+561 - monitor (System status monitor)
+
+562 - chcmd (Command-line control)
+
+563 - NNTP over SSL/TLS (Encrypted News Transfer Protocol)
+
+564 - 9P (Plan 9 File Protocol)
+
+565 - WHOIS++ (Extended WHOIS service)
+
+566 - StreetTalk Directory Assistance (STDA)
+
+567 - Unassigned
+
+568 - MS SQL Manager
+
+569 - MS SQL Monitor
+
+570 - Unassigned
+
+571 - Demon Multicast
+
+572 - Unassigned
+
+573 - FTP Agent
+
+574 - Unassigned
+
+575 - VEMMI (Versatile Multimedia Interface)
+
+576 - Unassigned
+
+577 - Unassigned
+
+578 - Unassigned
+
+579 - Unassigned
+
+580 - VNC over HTTP
+
+581 - Bundle Discovery Protocol
+
+582 - Unassigned
+
+583 - IMAPv4 over SSL/TLS
+
+584 - Unassigned
+
+585 - IMAP over SSL (Internet Message Access Protocol Secure)
+
+586 - Password Change Protocol
+
+587 - SMTP (Mail submission service)
+
+588 - Unassigned
+
+589 - Unassigned
+
+590 - VNC (Virtual Network Computing)
+
+591 - FileMaker Inc. Database service
+
+592 - E-commerce server
+
+593 - Unassigned
+
+594 - PCSOFT FTP server
+
+595 - CA-ARCserve Service
+
+596 - SMS Backup service
+
+597 - PTUPL Proxy service
+
+598 - Unassigned
+
+599 - Unassigned
+
+600 - IPCD
+
+601 - Reliable transfer (RTP)
+
+602 - Unassigned
+
+603 - KSYSV (Unix system V kernel logging)
+
+604 - TUNNEL (IP tunneling)
+
+605 - Cray UDP service
+
+606 - MIPS system messages
+
+607 - Reserved
+
+608 - SIFT/UFT
+
+609 - Reserved
+
+610 - Reserved
+
+611 - Reserved
+
+612 - Reserved
+
+613 - HTFS
+
+614 - LMV
+
+615 - Unassigned
+
+616 - Reserved
+
+617 - SCO diagnostics
+
+618 - SCO message server
+
+619 - SCO authentication service
+
+620 - Reserved
+
+621 - Reserved
+
+622 - Reserved
+
+623 - ASR (Platform Management)
+
+624 - Reserved
+
+625 - Open Software Foundation
+
+626 - RSCS/PROFS
+
+627 - Reserved
+
+628 - Unassigned
+
+629 - Reserved
+
+630 - REXD
+
+631 - Internet Printing Protocol (IPP)
+
+632 - Media Object Protocol
+
+633 - Service 633 (Backup management)
+
+634 - IRCS
+
+635 - Unassigned
+
+636 - LDAP over SSL/TLS (Lightweight Directory Access Protocol Secure)
+
+637 - Reserved
+
+638 - Reserved
+
+639 - Unassigned
+
+640 - Unassigned
+
+641 - Reserved
+
+642 - EMSD messaging server
+
+643 - Reserved
+
+644 - Reserved
+
+645 - Reserved
+
+646 - Reserved
+
+647 - Reserved
+
+648 - Reserved
+
+649 - Reserved
+
+650 - Reserved
+
+651 - Reserved
+
+652 - NetNews
+
+653 - Reserved
+
+654 - Reserved
+
+655 - Reserved
+
+656 - Reserved
+
+657 - Reserved
+
+658 - Reserved
+
+659 - Reserved
+
+660 - Unassigned
+
+661 - Unassigned
+
+662 - Reserved
+
+663 - Unassigned
+
+664 - Reserved
+
+665 - Reserved
+
+666 - Doom service
+
+667 - Reserved
+
+668 - Reserved
+
+669 - Reserved
+
+670 - Reserved
+
+671 - Reserved
+
+672 - Reserved
+
+673 - Reserved
+
+674 - Reserved
+
+675 - Reserved
+
+676 - Reserved
+
+677 - Reserved
+
+678 - Reserved
+
+679 - Reserved
+
+680 - Reserved
+
+681 - Reserved
+
+682 - Reserved
+
+683 - Reserved
+
+684 - Reserved
+
+685 - Reserved
+
+686 - Reserved
+
+687 - Reserved
+
+688 - Reserved
+
+689 - Reserved
+
+690 - Reserved
+
+691 - Reserved
+
+692 - Reserved
+
+693 - Reserved
+
+694 - Reserved
+
+695 - Unassigned
+
+696 - Reserved
+
+697 - Reserved
+
+698 - Reserved
+
+699 - Reserved
+
+700 - Reserved
+
+701 - Reserved
+
+702 - Unassigned
+
+703 - Reserved
+
+704 - Reserved
+
+705 - Reserved
+
+706 - Unassigned
+
+707 - Reserved
+
+708 - Reserved
+
+709 - Reserved
+
+710 - Reserved
+
+711 - Reserved
+
+712 - Reserved
+
+713 - Reserved
+
+714 - Reserved
+
+715 - Reserved
+
+716 - Unassigned
+
+717 - Reserved
+
+718 - Reserved
+
+719 - Unassigned
+
+720 - Unassigned
+
+721 - Reserved
+
+722 - Reserved
+
+723 - Reserved
+
+724 - Reserved
+
+725 - Reserved
+
+726 - Reserved
+
+727 - Reserved
+
+728 - Reserved
+
+729 - Reserved
+
+730 - Reserved
+
+731 - Reserved
+
+732 - Reserved
+
+733 - Reserved
+
+734 - Reserved
+
+735 - Reserved
+
+736 - Reserved
+
+737 - Reserved
+
+738 - Reserved
+
+739 - Reserved
+
+740 - Reserved
+
+741 - Reserved
+
+742 - Reserved
+
+743 - Reserved
+
+744 - Reserved
+
+745 - Reserved
+
+746 - Reserved
+
+747 - Reserved
+
+748 - Reserved
+
+749 - Kerberos Administration
+
+750 - Kerberos Version IV
+751 - Kerberos Master KDC
+752 - QRH (User-level Queueing and Reliable Transport)
+753 - Reverse Routing Header (RRH)
+754 - tell send (Send short messages protocol)
+758 - nlogin (SNMP Authentication Server)
+759 - con (SNMP Data Transfer Service)
+760 - krbupdate (Kerberos Registration)
+761 - kpasswd (Kerberos Password Change)
+762 - quotad (Quotad daemon)
+763 - cycleserv (Cycleserv Console)
+764 - omserv (OpenMail NewMail)
+765 - webster (Network dictionary)
+767 - phonebook (PhoneBook protocol)
+769 - vid (VID Intercommunication Protocol)
+770 - cadlock (CAD Lock protocol)
+771 - rtip (Real-Time Internet Protocol)
+772 - cycleserv2 (Cycle Service Management)
+773 - submit (Submit file transfer)
+774 - rpasswd (Remote password service)
+775 - entomb (Entomb system)
+776 - wpages (Workpages Server)
+777 - multiling-http (Multilingual HTTP)
+780 - wpgs (Workpages Server)
+781 - hp-collector (HP Performance data collection agent)
+782 - hp-managed-node (HP Performance management agent)
+783 - spamassassin (Spam filtering daemon)
+786 - concert (Concert Service Protocol)
+787 - qmtp (Quick Mail Transfer Protocol)
+800 - mdbs_daemon (mdbs network daemon)
+801 - device (Device Control Protocol)
+802 - fs-server (File Server Protocol)
+808 - ccproxy-http (CCProxy HTTP Proxy)
+829 - pkix-3-ca-ra (PKIX Certificate Authority/Registration Authority)
+830 - netconf-ssh (NETCONF over SSH)
+831 - netconf-beep (NETCONF over BEEP)
+832 - netconfsoaphttp (NETCONF over SOAP/HTTP)
+833 - netconfsoapbeep (NETCONF over SOAP/BEEP)
+847 - dhcp-failover (DHCP Failover Protocol)
+848 - gdoi (Group Domain of Interpretation)
+853 - dns-query (DNS Queries over TLS)
+860 - iscsi (iSCSI Protocol)
+861 - owamp-control (OWAMP Control Protocol)
+862 - twamp-control (TWAMP Control Protocol)
+873 - rsync (File Synchronization Protocol)
+886 - icmpv6 (ICMPv6 over UDP)
+887 - unassigned
+888 - accessbuilder (AccessBuilder CCProxy)
+898 - sun-manageconsole (Sun Management Console)
+901 - samba-swat (Samba SWAT)
+902 - VMware ESXi management (VMware ESXi Remote Management)
+903 - VMware ESXi management (VMware ESXi Remote Management)
+911 - xact-backup (Network backup protocol)
+912 - apex-mesh (APEX framework mesh)
+981 - remote-iDrac (Dell iDRAC remote access)
+987 - reserved
+989 - ftps-data (FTP over SSL Data Channel)
+990 - ftps (FTP over SSL)
+991 - nas (Netnews Administration System)
+992 - telnets (Telnet over SSL)
+993 - imaps (IMAP over SSL)
+994 - ircs (IRC over SSL)
+995 - pop3s (POP3 over SSL)
+996 - vsinet (VSINET Protocol)
+997 - maitrd (Multilingual Trivial File Transfer Protocol)
+998 - busboy (Busboy Service)
+999 - garcon (Garcon Service)
+1000 - cadlock2 (CAD Lock)
+1001 - webpush (Web Push Protocol)
+1002 - unassigned
+1003 - unassigned
+1004 - unassigned
+1005 - unassigned
+1006 - unassigned
+1007 - unassigned
+1008 - unassigned
+1009 - unassigned
+1010 - unassigned
+1011 - unassigned
+1012 - unassigned
+1013 - unassigned
+1014 - unassigned
+1015 - unassigned
+1016 - unassigned
+1017 - unassigned
+1018 - unassigned
+1019 - unisys-nsp (Unisys Network Protocol)
+1020 - unisys-sync (Unisys Sync Protocol)
+1021 - exp1 (RFC3692-style Experiment 1)
+1022 - exp2 (RFC3692-style Experiment 2)
+1023 - unassigned
